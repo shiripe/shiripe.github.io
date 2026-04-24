@@ -71,7 +71,7 @@ I also enjoy photography as a way to explore light, composition, and visual stor
 <div align="center">
 
 <a href="https://link.clashroyale.com/invite/friend/en?tag=UGRJ2J9&token=r28s9t9a&platform=iOS&m=0">
-  <img src="./assets/clash-button.png" width="260" alt="Add me on Clash Royale"/>
+  <img src="./assets/Clash.png" width="260" alt="Add me on Clash Royale"/>
 </a>
 
 </div>
