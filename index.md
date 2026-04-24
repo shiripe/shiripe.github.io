@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/banner.png" width="100%" alt="Profile banner"/>
+
+<br><br>
+
 <table>
   <tr>
     <td align="center" width="180">
@@ -16,6 +20,7 @@
 </table>
 
 </div>
+
 ---
 
 ## About me
