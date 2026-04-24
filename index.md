@@ -27,7 +27,7 @@ Beyond research, I’m motivated by the possibility of connecting science with r
 
 - **Name:** Felipe Nesta Valdebenito Vargas 
 - **Academic status:** Master's student in Medical Physics at PUC
-- **Relationship status:** Single 😞👊  
+- **Relationship status:** Single 😞👊  and gay
 - **Main goal:** Burden Of Dreams 9A
 - **Email:** [shiripevv@gmail.com](mailto:shiripevv@gmail.com)
   
