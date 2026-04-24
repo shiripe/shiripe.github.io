@@ -24,6 +24,6 @@ Beyond research, I’m motivated by the possibility of connecting science with r
 
 ```txt
 Name: Felipe Nesta Vargas Valdebenito
-Academic status: Graduate student in Medical Physics
+Academic status: Undergraduate student in Medical Physics
 Relationship status: Single 😞👊
 Main goal: To develop a... idk
