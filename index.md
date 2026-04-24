@@ -62,7 +62,7 @@ I also enjoy photography as a way to explore light, composition, and visual stor
 <div align="center">
 
 <a href="./projects.md">
-  <img src="./assets/Projects.png" width="260" alt="Personal projects"/>
+  <img src="./assets/boton.jpg" width="260" alt="Personal projects"/>
 </a>
 
 </div>
