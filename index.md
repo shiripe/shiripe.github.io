@@ -1,19 +1,17 @@
 <div align="center">
 
-## Human Verification
-
-Before entering this extremely serious academic profile, please confirm:
+# HUMAN VERIFICATION REQUIRED
 
 </div>
 
-- [ ] I am not a robot.
-- [ ] I understand that this profile may contain excessive medical physics.
-- [ ] I accept the risk of seeing plots, LaTeX, and questionable life goals.
-- [x] I am probably procrastinating.
+<details>
+<summary>✅ I confirm that I am not a robot, although my sleep schedule suggests otherwise.</summary>
+
+<br>
 
 <div align="center">
 
-**Access granted. Unfortunately.**
+**Access granted. Standards were low.**
 
 </div>
 
