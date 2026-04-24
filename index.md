@@ -71,7 +71,7 @@ I also enjoy photography as a way to explore light, composition, and visual stor
 
 <br><br>
 
-<a href="./projects.md">
+<a href="https://github.com/shiripe/shiripe/blob/main/projects.md">
   <img 
     src="https://img.shields.io/badge/Project%202-Oxygen%20Diffusion%20Dynamics-9966CC?style=for-the-badge&labelColor=4B2E83" 
     width="650"
