@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>HUMAN VERIFICATION REQUIRED</h1>
+<h1>:arrow_right:HUMAN VERIFICATION REQUIRED:arrow_left:</h1>
 
 </div>
 
