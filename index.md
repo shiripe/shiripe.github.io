@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/USERNAME.png" width="140" style="border-radius: 50%;" alt="Profile avatar"/>
+<img src="https://github.com/shiripe.png" width="140" style="border-radius: 50%;" alt="Profile avatar"/>
 
 # Felipe Nesta Vargas Valdebenito
 
@@ -22,8 +22,15 @@ Beyond research, I’m motivated by the possibility of connecting science with r
 
 ## Personal profile
 
-```txt
 Name: Felipe Nesta Vargas Valdebenito
 Academic status: Undergraduate student in Medical Physics
 Relationship status: Single 😞👊
 Main goal: To develop a... idk
+
+---
+
+## Current focus
+
+I’m currently interested in experimental approaches related to radiation effects, biological systems, and the development of scientific tools that can contribute to biomedical innovation.
+
+---
