@@ -1,13 +1,21 @@
 <div align="center">
 
-<img src="https://github.com/shiripe.png" width="140" style="border-radius: 50%;" alt="Profile avatar"/>
-
-# Felipe Nesta Vargas Valdebenito
-
-### Medical Physics: Experimental Radiobiology · Dosimetry
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://github.com/shiripe.png" width="150" alt="Profile avatar"/>
+    </td>
+    <td align="left">
+      <h1>FELIPE NESTA<br>VARGAS VALDEBENITO</h1>
+      <p>
+        <strong>Medical Physics</strong><br>
+        Experimental Radiobiology · Dosimetry
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
-
 ---
 
 ## About me
