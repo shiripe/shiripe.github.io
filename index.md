@@ -26,7 +26,7 @@ Beyond research, I’m motivated by the possibility of connecting science with r
 ## Personal profile
 
 - **Name:** Felipe Nesta Valdebenito Vargas 
-- **Academic status:** Undergraduate student in Medical Physics at PUC 
+- **Academic status:** Master's student in Medical Physics at PUC
 - **Relationship status:** Single 😞👊  
 - **Main goal:** To grow as a climber
 - **Email:** [shiripevv@gmail.com](mailto:shiripevv@gmail.com)
