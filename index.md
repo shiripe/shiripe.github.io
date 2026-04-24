@@ -30,10 +30,10 @@ Beyond research, I’m motivated by the possibility of connecting science with r
 
 ## Personal profile
 
-Name: Felipe Nesta Vargas Valdebenito
-Academic status: Undergraduate student in Medical Physics
-Relationship status: Single 😞👊
-Main goal: To develop a... idk
+- **Name:** Felipe Nesta Vargas Valdebenito  
+- **Academic status:** Undergraduate student in Medical Physics  
+- **Relationship status:** Single 😞👊  
+- **Main goal:** To grow as a researcher in medical physics, contributing to experimental science, education, and biomedical innovation.
 
 ---
 
@@ -66,4 +66,12 @@ I also enjoy photography as a way to explore light, composition, and visual stor
 
 ## Clash Royale
 
-**Friend link:** [Add me on Clash Royale](https://link.clashroyale.com/invite/friend/en?tag=UGRJ2J9&token=r28s9t9a&platform=iOS&m=0)
+**Friend link:** 
+
+<div align="center">
+
+<a href="https://link.clashroyale.com/invite/friend/en?tag=UGRJ2J9&token=r28s9t9a&platform=iOS&m=0">
+  <img src="./assets/clash-button.png" width="260" alt="Add me on Clash Royale"/>
+</a>
+
+</div>
