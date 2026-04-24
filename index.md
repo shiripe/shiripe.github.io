@@ -32,12 +32,6 @@ Beyond research, I’m motivated by the possibility of connecting science with r
 
 ---
 
-## Current focus
-
-I’m currently interested in experimental approaches related to radiation effects, biological systems, and the development of scientific tools that can contribute to biomedical innovation.
-
----
-
 ## Photography interests
 
 I also enjoy photography as a way to explore light, composition, and visual storytelling.
