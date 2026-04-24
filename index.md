@@ -35,6 +35,27 @@ I’m currently interested in experimental approaches related to radiation effec
 
 ---
 
+## Photography interests
+
+I also enjoy photography as a way to explore light, composition, and visual storytelling.
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./assets/foto1.jpg" width="350" alt="Photography image 1"/>
+    </td>
+    <td align="center">
+      <img src="./assets/foto2.jpg" width="350" alt="Photography image 2"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+----
+
 ## Clash Royale
 
 **Friend link:** [Add me on Clash Royale](https://link.clashroyale.com/invite/friend/en?tag=UGRJ2J9&token=r28s9t9a&platform=iOS&m=0)
