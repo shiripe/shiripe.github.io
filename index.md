@@ -15,8 +15,6 @@
 
 </div>
 
-</details>
-
 ---
 
 ---
@@ -92,3 +90,5 @@ I also enjoy photography as a way to explore light, composition, and visual stor
 </a>
 
 </div>
+
+</details>
