@@ -44,10 +44,10 @@ I also enjoy photography as a way to explore light, composition, and visual stor
 <table>
   <tr>
     <td align="center">
-      <img src="./assets/foto1.jpg" width="350" alt="Photography image 1"/>
+      <img src="./assets/foto1.JPG" width="350" alt="Photography image 1"/>
     </td>
     <td align="center">
-      <img src="./assets/foto2.jpg" width="350" alt="Photography image 2"/>
+      <img src="./assets/foto2.JPG" width="350" alt="Photography image 2"/>
     </td>
   </tr>
 </table>
