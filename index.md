@@ -65,7 +65,7 @@ I also enjoy photography as a way to explore light, composition, and visual stor
   <img 
     src="https://img.shields.io/badge/Project%201-Personal%20Projects-9966CC?style=for-the-badge&labelColor=4B2E83" 
     width="500"
-    alt="Personal projects"
+    alt="Unit Timer Error Evaluation in Biological Irradiator"
   />
 </a>
 
@@ -75,7 +75,7 @@ I also enjoy photography as a way to explore light, composition, and visual stor
   <img 
     src="https://img.shields.io/badge/Project%202-Oxygen%20Diffusion%20Dynamics-9966CC?style=for-the-badge&labelColor=4B2E83" 
     width="650"
-    alt="Oxygen Diffusion Dynamics"
+    alt="Oxygen Diffusion Dynamics in Co-Culture Cell Media"
   />
 </a>
 
