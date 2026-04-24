@@ -17,8 +17,6 @@
 
 ---
 
----
-
 <div align="center">
 
 <img src="./assets/Fondo.JPG" width="100%" alt="Medical physics banner"/>
