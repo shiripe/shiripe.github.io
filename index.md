@@ -1,40 +1,20 @@
 <div align="center">
 
-<h1>HUMAN VERIFICATION REQUIRED</h1>
-
-</div>
-
-<details>
-<summary>✅ I confirm that I am not a robot.</summary>
-
-<br>
-
-<div align="center">
-
-<strong>Access granted. Standards were low.</strong>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="./assets/Fondo.JPG" width="100%" alt="Medical physics banner"/>
 
 <h1>FELIPE NESTA VALDEBENITO VARGAS</h1>
 
 <p>
-  "pa' delante que pa' atrás no cunde"
+  <em>"pa' delante que pa' atrás no cunde"</em>
 </p>
 
 </div>
 
 ---
----
 
 ## About me
 
-Hi, I’m **Felipe**, a undergraduate student in **Medical Physics**, with a strong interest in experimental research.
+Hi, I’m **Felipe**, a Master's student in **Medical Physics**, with a strong interest in experimental research.
 
 My academic work is mainly focused on **experimental radiobiology** and **dosimetry**. I’m interested in understanding how physical principles can be used to study biological systems, improve experimental methodologies, and support the development of new biomedical technologies.
 
@@ -50,7 +30,7 @@ Beyond research, I’m motivated by the possibility of connecting science with r
 - **Research interests:** Radiobiology & Dosimetry  
 - **Main goal:** Burden Of Dreams 9A
 - **Email:** [shiripevv@gmail.com](mailto:shiripevv@gmail.com)
-  
+
 ---
 
 ## Photography interests
@@ -75,11 +55,9 @@ I also enjoy photography as a way to explore light, composition, and visual stor
 
 </div>
 
-----
+---
 
 ## Others
-
-**Friend link:** 
 
 <div align="center">
 
@@ -88,5 +66,3 @@ I also enjoy photography as a way to explore light, composition, and visual stor
 </a>
 
 </div>
-
-</details>
