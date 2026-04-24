@@ -29,7 +29,8 @@ Beyond research, I’m motivated by the possibility of connecting science with r
 - **Academic status:** Undergraduate student in Medical Physics at PUC 
 - **Relationship status:** Single 😞👊  
 - **Main goal:** To grow as a climber
-
+- **Email:** [shiripevv@gmail.com](mailto:shiripevv@gmail.com)
+  
 ---
 
 ## Photography interests
@@ -56,7 +57,7 @@ I also enjoy photography as a way to explore light, composition, and visual stor
 
 ----
 
-## Clash Royale
+## Others
 
 **Friend link:** 
 
