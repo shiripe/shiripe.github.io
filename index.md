@@ -5,7 +5,7 @@
 </div>
 
 <details>
-<summary>✅ I confirm that I am not a robot, although my sleep schedule suggests otherwise.</summary>
+<summary>✅ I confirm that I am not a robot.
 
 <br>
 
