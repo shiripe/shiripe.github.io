@@ -5,7 +5,7 @@
 </div>
 
 <details>
-<summary>✅ I confirm that I am not a robot.
+<summary>✅ I confirm that I am not a robot.</summary>
 
 <br>
 
