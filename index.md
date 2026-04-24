@@ -2,10 +2,10 @@
 
 <img src="./assets/Fondo.JPG" width="100%" alt="Medical physics banner"/>
 
-<h1>FELIPE NESTA VARGAS VALDEBENITO</h1>
+<h1>FELIPE NESTA VALDEBENITO VARGAS</h1>
 
 <p>
-  <strong>Medical Physics</strong> · Experimental Radiobiology · Dosimetry
+  <strong>Medical Physics</strong>: Experimental Radiobiology & Dosimetry
 </p>
 
 </div>
@@ -25,10 +25,10 @@ Beyond research, I’m motivated by the possibility of connecting science with r
 
 ## Personal profile
 
-- **Name:** Felipe Nesta Vargas Valdebenito  
-- **Academic status:** Undergraduate student in Medical Physics  
+- **Name:** Felipe Nesta Valdebenito Vargas 
+- **Academic status:** Undergraduate student in Medical Physics at PUC 
 - **Relationship status:** Single 😞👊  
-- **Main goal:** To grow as a researcher in medical physics, contributing to experimental science, education, and biomedical innovation.
+- **Main goal:** To grow as a climber
 
 ---
 
