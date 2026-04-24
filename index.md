@@ -34,3 +34,7 @@ Main goal: To develop a... idk
 I’m currently interested in experimental approaches related to radiation effects, biological systems, and the development of scientific tools that can contribute to biomedical innovation.
 
 ---
+
+## Clash Royale
+
+**Friend link:** [Add me on Clash Royale](https://link.clashroyale.com/invite/friend/en?tag=UGRJ2J9&token=r28s9t9a&platform=iOS&m=0)
