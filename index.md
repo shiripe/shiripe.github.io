@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/fondo.jpg" width="100%" alt="Medical physics banner"/>
+<img src="./assets/Fondo.JPG" width="100%" alt="Medical physics banner"/>
 
 <h1>FELIPE NESTA VARGAS VALDEBENITO</h1>
 
@@ -47,10 +47,13 @@ I also enjoy photography as a way to explore light, composition, and visual stor
 <table>
   <tr>
     <td align="center">
-      <img src="./assets/foto1.JPG" width="350" alt="Photography image 1"/>
+      <img src="./assets/foto1.JPG" width="300" alt="Photography image 1"/>
     </td>
     <td align="center">
-      <img src="./assets/foto2.JPG" width="350" alt="Photography image 2"/>
+      <img src="./assets/foto2.JPG" width="300" alt="Photography image 2"/>
+    </td>
+    <td align="center">
+      <img src="./assets/foto3.JPG" width="300" alt="Photography image 3"/>
     </td>
   </tr>
 </table>
