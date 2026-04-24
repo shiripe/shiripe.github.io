@@ -62,18 +62,24 @@ I also enjoy photography as a way to explore light, composition, and visual stor
 <div align="center">
 
 <a href="./projects.md">
-  <img src="https://img.shields.io/badge/Project_1-Unit_Timer_Error_Evaluation-111111?style=for-the-badge" alt="Unit Timer Error Evaluation"/>
+  <img 
+    src="https://img.shields.io/badge/Project%201-Unit%20Timer%20Error%20Evaluation-9966CC?style=for-the-badge&labelColor=4B2E83" 
+    width="650"
+    alt="Unit Timer Error Evaluation"
+  />
 </a>
 
 <br><br>
 
 <a href="./projects.md">
-  <img src="https://img.shields.io/badge/Project_2-Oxygen_Diffusion_Dynamics-111111?style=for-the-badge" alt="Oxygen Diffusion Dynamics"/>
+  <img 
+    src="https://img.shields.io/badge/Project%202-Oxygen%20Diffusion%20Dynamics-9966CC?style=for-the-badge&labelColor=4B2E83" 
+    width="650"
+    alt="Oxygen Diffusion Dynamics"
+  />
 </a>
 
 </div>
-
----
 
 ## Others
 
