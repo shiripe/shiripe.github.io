@@ -1,6 +1,6 @@
 <div align="center">
 
-# HUMAN VERIFICATION REQUIRED
+<h1>HUMAN VERIFICATION REQUIRED</h1>
 
 </div>
 
@@ -11,9 +11,13 @@
 
 <div align="center">
 
-**Access granted. Standards were low.**
+<strong>Access granted. Standards were low.</strong>
 
 </div>
+
+</details>
+
+---
 
 ---
 
