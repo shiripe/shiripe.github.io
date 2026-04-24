@@ -61,17 +61,17 @@ I also enjoy photography as a way to explore light, composition, and visual stor
 
 <div align="center">
 
-<a href="./projects.md">
+<a href="https://github.com/shiripe/shiripe.github.io/blob/main/projects.md">
   <img 
-    src="https://img.shields.io/badge/Project%201-Unit%20Timer%20Error%20Evaluation-9966CC?style=for-the-badge&labelColor=4B2E83" 
-    width="650"
-    alt="Unit Timer Error Evaluation"
+    src="https://img.shields.io/badge/Project%201-Personal%20Projects-9966CC?style=for-the-badge&labelColor=4B2E83" 
+    width="500"
+    alt="Personal projects"
   />
 </a>
 
 <br><br>
 
-<a href="https://github.com/shiripe/shiripe/blob/main/projects.md">
+<a href="https://github.com/shiripe/shiripe.github.io/blob/main/projects.md">
   <img 
     src="https://img.shields.io/badge/Project%202-Oxygen%20Diffusion%20Dynamics-9966CC?style=for-the-badge&labelColor=4B2E83" 
     width="650"
