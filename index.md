@@ -4,7 +4,7 @@
 
 # Felipe Nesta Vargas Valdebenito
 
-### Medical Physics · Experimental Radiobiology · Dosimetry
+### Medical Physics: Experimental Radiobiology · Dosimetry
 
 </div>
 
