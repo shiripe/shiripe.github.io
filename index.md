@@ -1,26 +1,18 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Profile banner"/>
+<img src="./assets/banner.png" width="100%" alt="Medical physics banner"/>
 
-<br><br>
+<h1>FELIPE NESTA VARGAS VALDEBENITO</h1>
 
-<table>
-  <tr>
-    <td align="center" width="180">
-      <img src="https://github.com/shiripe.png" width="150" alt="Profile avatar"/>
-    </td>
-    <td align="left">
-      <h1>FELIPE NESTA<br>VARGAS VALDEBENITO</h1>
-      <p>
-        <strong>Medical Physics</strong><br>
-        Experimental Radiobiology · Dosimetry
-      </p>
-    </td>
-  </tr>
-</table>
+<p>
+  <strong>Medical Physics</strong> · Experimental Radiobiology · Dosimetry
+</p>
+
+<img src="https://github.com/shiripe.png" width="130" alt="Profile avatar"/>
 
 </div>
 
+---
 ---
 
 ## About me
