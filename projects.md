@@ -1,3 +1,7 @@
+---
+layout: default
+title: Personal projects
+---
 
 # Personal projects
 
