@@ -5,7 +5,7 @@
 <h1>FELIPE NESTA VALDEBENITO VARGAS</h1>
 
 <p>
-  <strong>Medical Physics</strong>: Experimental Radiobiology & Dosimetry
+  "pa' delante que pa' atrás no cunde"
 </p>
 
 </div>
@@ -15,9 +15,9 @@
 
 ## About me
 
-Hi, I’m **Felipe**, a undergraduate student in **Medical Physics** with a strong interest in experimental research applied to biomedical sciences.
+Hi, I’m **Felipe**, a undergraduate student in **Medical Physics**, with a strong interest in experimental research.
 
-My academic work is mainly focused on **medical physics**, especially in the experimental area of **radiobiology** and **dosimetry**. I’m interested in understanding how physical principles can be used to study biological systems, improve experimental methodologies, and support the development of new biomedical technologies.
+My academic work is mainly focused on **experimental radiobiology** and **dosimetry**. I’m interested in understanding how physical principles can be used to study biological systems, improve experimental methodologies, and support the development of new biomedical technologies.
 
 Beyond research, I’m motivated by the possibility of connecting science with real-world applications through **technological transfer**, innovation, and interdisciplinary collaboration.
 
@@ -27,7 +27,8 @@ Beyond research, I’m motivated by the possibility of connecting science with r
 
 - **Name:** Felipe Nesta Valdebenito Vargas 
 - **Academic status:** Master's student in Medical Physics at PUC
-- **Relationship status:** Single 😞👊  
+- **Relationship status:** Single 😞👊
+- **Research interests:** Radiobiology & Dosimetry  
 - **Main goal:** Burden Of Dreams 9A
 - **Email:** [shiripevv@gmail.com](mailto:shiripevv@gmail.com)
   
