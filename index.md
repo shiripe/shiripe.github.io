@@ -63,8 +63,8 @@ I also enjoy photography as a way to explore light, composition, and visual stor
 
 <a href="https://github.com/shiripe/shiripe.github.io/blob/main/projects.md">
   <img 
-    src="https://img.shields.io/badge/Project%201-Personal%20Projects-9966CC?style=for-the-badge&labelColor=4B2E83" 
-    width="500"
+    src="https://img.shields.io/badge/Project%201-Unit%20Timer%20Error%20Evaluation%20in%20Biological%20Irradiator-9966CC?style=for-the-badge&labelColor=4B2E83" 
+    width="750"
     alt="Unit Timer Error Evaluation in Biological Irradiator"
   />
 </a>
@@ -73,8 +73,8 @@ I also enjoy photography as a way to explore light, composition, and visual stor
 
 <a href="https://github.com/shiripe/shiripe.github.io/blob/main/projects.md">
   <img 
-    src="https://img.shields.io/badge/Project%202-Oxygen%20Diffusion%20Dynamics-9966CC?style=for-the-badge&labelColor=4B2E83" 
-    width="650"
+    src="https://img.shields.io/badge/Project%202-Oxygen%20Diffusion%20Dynamics%20in%20Co--Culture%20Cell%20Media-9966CC?style=for-the-badge&labelColor=4B2E83" 
+    width="750"
     alt="Oxygen Diffusion Dynamics in Co-Culture Cell Media"
   />
 </a>
