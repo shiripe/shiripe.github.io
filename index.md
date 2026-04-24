@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Medical physics banner"/>
+<img src="./assets/fondo.jpg" width="100%" alt="Medical physics banner"/>
 
 <h1>FELIPE NESTA VARGAS VALDEBENITO</h1>
 
 <p>
   <strong>Medical Physics</strong> · Experimental Radiobiology · Dosimetry
 </p>
-
-<img src="https://github.com/shiripe.png" width="130" alt="Profile avatar"/>
 
 </div>
 
