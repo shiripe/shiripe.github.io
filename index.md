@@ -1,5 +1,26 @@
 <div align="center">
 
+## Human Verification
+
+Before entering this extremely serious academic profile, please confirm:
+
+</div>
+
+- [ ] I am not a robot.
+- [ ] I understand that this profile may contain excessive medical physics.
+- [ ] I accept the risk of seeing plots, LaTeX, and questionable life goals.
+- [x] I am probably procrastinating.
+
+<div align="center">
+
+**Access granted. Unfortunately.**
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="./assets/Fondo.JPG" width="100%" alt="Medical physics banner"/>
 
 <h1>FELIPE NESTA VALDEBENITO VARGAS</h1>
